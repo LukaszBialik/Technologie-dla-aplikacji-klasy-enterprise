@@ -1,0 +1,9 @@
+lab\entities\Complaint.class
+lab\services\ModelMapperProducer.class
+lab\dto\ComplaintDTO.class
+lab\services\ComplaintService.class
+lab\services\ComplaintService$1.class
+lab\data\EntityManagerProducer.class
+lab\data\ComplaintRepository.class
+lab\resources\ComplaintResource.class
+lab\resources\ComplaintApplication.class
